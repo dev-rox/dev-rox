@@ -1,5 +1,5 @@
 <h2> Hi, I'm R! </h2>
-<img align='right' src="https://static.wikia.nocookie.net/sel/images/c/c6/Oldnavi.jpg/revision/latest?cb=20100625220911" width="230">
+<img align='right' src="https://static.vecteezy.com/system/resources/previews/029/341/793/non_2x/concept-of-virtual-reality-tech-metaverse-cartoon-style-boy-in-vr-glasses-on-background-with-space-planets-and-stars-retro-futurism-trendy-modern-illustration-hand-drawn-flat-vector.jpg" width="230">
 <p><em>Software Development Student at <a href="https://www.pucpr.br/">PUCPR - Pontifícia Universidade Católica do Paraná</a>
 </em></p>
 
