@@ -20,6 +20,6 @@ const fluox = {
 }
 ```
 
- <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+ <em><b>Feel free to say hi anytime! I love connecting with new people!</b> :)</em>
 
 ---
