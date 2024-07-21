@@ -4,7 +4,6 @@
 </em></p>
 
 
-[![Linkedin: rauloliveirax](https://img.shields.io/badge/-rauloliveirax-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rauloliveirax/)](https://www.linkedin.com/in/rauloliveirax/)
 
 
 
